@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/slyfunds-commits/one-line-one-chill-01/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
 [![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/slyfunds-commits/one-line-one-chill-01/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
 
-Round 1 entry for make.fun's "One Line, One Chill" bounty: one sentence of horror, the dread in the last word.
+My round 1 entry for make.fun's "One Line, One Chill" bounty: a single sentence that lands as a scare. The dread lives in the last word — a house with an upstairs that shouldn't exist.
 
 The line: "My son asks why the lady upstairs cries at night, and we live in a bungalow."
 
